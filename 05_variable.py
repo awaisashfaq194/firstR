@@ -17,7 +17,7 @@ print(type(y))
 # 2 Dont start with numbers
 # 3 Spaces are not allowed 
 # 4 Dont use keywords used in function(break, mean, media, test etc)
-# 5 Short and descriptive
+# 5 Short and descriptive(only)
 # 6 Case sensitivity (Lowercase, Upercase letter. lowercase letter should be used)
 
 
